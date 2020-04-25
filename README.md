@@ -1,5 +1,8 @@
 # GANs
 GAN_exploration
 
+First 
 
-1 Intall 
+pip install -r requirements.txt  (on your virtual enviroment) 
+
+
