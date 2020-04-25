@@ -15,6 +15,7 @@ b) project: name of your project (create in weights and biases web site)
 3) edit torch_bash.sh
 
 a) Use your own weights and biases API key
+
 b) Change your own files location 
 
 4) run torch_bash.sh 
