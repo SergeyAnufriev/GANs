@@ -2,9 +2,11 @@
 
 To run code:
 
-pip install -r requirements.txt  
+1) pip install -r requirements.txt  
 
-Then edit and run bash script torch_bash.sh 
+Then edit and run bash script:
+
+2) torch_bash.sh 
 
 
 
