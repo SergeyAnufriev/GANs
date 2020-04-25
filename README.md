@@ -8,8 +8,9 @@ edit gan_torch.py:
 
 2) sweep_id = wandb.sweep(sweep_config, entity="zcemg08", project="gans_training2")
 
-entity: your weights and biases username 
-project: name of your project (create in weights and biases web site) 
+a) entity: your weights and biases username 
+
+b) project: name of your project (create in weights and biases web site) 
 
 3) edit torch_bash.sh
 
