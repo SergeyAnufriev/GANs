@@ -4,13 +4,19 @@ To run code:
 
 1) pip install -r requirements.txt  
 
-Then edit and run bash script: 
+edit gan_torch.py: 
+
+2) sweep_id = wandb.sweep(sweep_config, entity="zcemg08", project="gans_training2")
+
+entity: your weights and biases username 
+project: name of your project (create in weights and biases web site) 
+
+3) edit torch_bash.sh
 
 a) Use your own weights and biases API key
+b) Change your own files location 
 
-b) Edit your own files location 
-
-2) torch_bash.sh 
+4) run torch_bash.sh 
 
 
 
