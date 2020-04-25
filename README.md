@@ -7,6 +7,7 @@ To run code:
 Then edit and run bash script: 
 
 a) Use your own weights and biases API key
+
 b) Edit your own files location 
 
 2) torch_bash.sh 
