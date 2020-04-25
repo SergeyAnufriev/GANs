@@ -18,7 +18,7 @@ a) Use your own weights and biases API key
 
 b) Change files location 
 
-4) run torch_bash.sh 
+4) run torch_bash1.sh 
 
 
 
