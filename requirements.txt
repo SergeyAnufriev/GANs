@@ -64,11 +64,9 @@ six==1.14.0
 smmap==3.0.2
 subprocess32==3.5.4
 tensorboard==2.1.1
-tensorflow-estimator==2.1.0
-tensorflow==2.1.0
 termcolor==1.1.0
-torch==1.2.0+cu92
-torchvision==0.4.0+cu92
+torch==1.2.0
+torchvision==0.4.0
 tqdm==4.45.0
 urllib3==1.25.9
 wandb==0.8.32
