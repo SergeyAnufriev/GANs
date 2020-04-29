@@ -1,8 +1,0 @@
-- method: grid
-  parameters:
-    activation:
-      values: [LeakyReLU, Sigmoid, Tanh]
-    n_hidden_discriminator:
-      values: [10, 50, 200]
-    n_hidden_generator:
-      values: [10, 50, 200]
