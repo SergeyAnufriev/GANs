@@ -12,7 +12,7 @@ a) entity: your weights and biases username
 
 b) project: name of your project (create in weights and biases web site) 
 
-3) edit torch_bash.sh
+3) edit torch_bash1.sh
 
 a) Use your own weights and biases API key
 
